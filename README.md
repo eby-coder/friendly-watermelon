@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](desktop-view-product-preview-card.jpg) 
+![](SCREENSHOT.jpg) 
 ![](mobile-view-product-preview-card.jpg)
 
 ### Links
